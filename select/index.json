@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "AM0:40",
+  "base_artist": "androp",
+  "createdAt": "2026-02-15T16:37:03.701775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AM0:40",
+      "artist": "androp",
+      "has_synced": true,
+      "path": "select/01_AM0_40_androp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AM0:40",
+      "artist": "androp",
+      "has_synced": false,
+      "path": "select/pl_01_AM0_40_androp.txt"
+    }
+  ]
+}
